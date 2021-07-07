@@ -1,11 +1,12 @@
 # pandas_data
-Pandas-Data-Science-Tasks
+Here,
 Set of real world data science tasks completed using the Python Pandas library.
 
 ### Setup
 You then should extract all of the files to the location you want to edit your code.
 
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html
+
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
 
 #### Background Information:
